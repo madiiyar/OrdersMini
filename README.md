@@ -47,3 +47,9 @@ Update-Database -StartupProject Orders.API -Project Orders.Infrastructure
 Для запуска API локально используйте следующую команду:
 ```bash
 dotnet run --project Orders.API
+```
+После запуска API будет доступен по адресу:
+http://localhost:5000
+
+Чтобы протестировать эндпоинты, откройте Swagger UI по ссылке:
+http://localhost:5000/swagger
