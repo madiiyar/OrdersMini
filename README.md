@@ -53,3 +53,6 @@ http://localhost:5000
 
 Чтобы протестировать эндпоинты, откройте Swagger UI по ссылке:
 http://localhost:5000/swagger
+
+## API Эндпоинты
+[Эндпоинт документация](https://github.com/madiiyar/OrdersMini/blob/master/DocumentationOrdersMiniAPI.pdf)
